@@ -35,6 +35,7 @@ Project ระบบการจำลองการสั่นไหวขอ
 * [Node.js](https://nodejs.org/) (v18 หรือใหม่กว่า)
 * [Docker Desktop](https://www.docker.com/products/docker-desktop)
 * Telegram Account (สำหรับการสร้าง Bot Token)
+* Arduino IDE
 
 <img width="811" height="722" alt="image" src="https://github.com/user-attachments/assets/8addecff-8b26-470f-b711-b0aa37520334" />
 
