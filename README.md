@@ -14,12 +14,12 @@ Project ระบบการจำลองการสั่นไหวขอ
 ## 🛠️ Tech Stack (เทคโนโลยีที่ใช้)
 
 **Frontend:**
-* Framework: [Next.js](https://nextjs.org/) (React)
+* Framework: [Next.js](https://nextjs.org/) 
 * Language: TypeScript
 * Styling: Tailwind CSS
 
 **Backend:**
-* Framework: [NestJS](https://nestjs.com/) (Node.js)
+* Framework: [NestJS](https://nestjs.com/) 
 * Language: TypeScript
 * Database: Mysql (PhpMyAdmin)
 * Integration: Telegram Bot API (สำหรับการแจ้งเตือน), External APIs (สำหรับดึงข้อมูลอ้างอิงการจำลอง)
