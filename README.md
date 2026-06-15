@@ -21,7 +21,7 @@ Project ระบบการจำลองการสั่นไหวขอ
 **Backend:**
 * Framework: [NestJS](https://nestjs.com/) (Node.js)
 * Language: TypeScript
-* Database: PhpMyAdmin
+* Database: Mysql (PhpMyAdmin)
 * Integration: Telegram Bot API (สำหรับการแจ้งเตือน), External APIs (สำหรับดึงข้อมูลอ้างอิงการจำลอง)
 
 **Infrastructure / DevOps:**
